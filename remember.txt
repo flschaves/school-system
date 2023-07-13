@@ -1,0 +1,6 @@
+
+echo strftime( '%A, %d de %B de %Y, %H:%M:%S', LOCAL_TIMESTAMP ); // Segunda Feira, 04 de Janeiro de 2016, 22:42:42
+
+echo gmdate( 'D, d M Y H:i:s T', LOCAL_TIMESTAMP ); // Mon, 04 Jan 2016 22:42:42 GMT
+
+echo gmdate("m/d/Y g:i:s A", LOCAL_TIMESTAMP ); // 01/04/2016 10:42:42 PM

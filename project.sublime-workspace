@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"add",
+				"addon_instance"
+			],
+			[
+				"admin_",
+				"admin_includes"
+			],
+			[
+				"sty",
+				"styl"
+			],
+			[
+				"styl",
+				"stylus"
+			],
+			[
+				"stly",
+				"stylus"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/header.php",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/footer.php",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/ESCOLA_IDIOMAS",
+		"/Applications/MAMP/htdocs/ESCOLA_IDIOMAS/assets",
+		"/Applications/MAMP/htdocs/ESCOLA_IDIOMAS/templates"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/ESCOLA_IDIOMAS/templates/index.php",
+		"/Users/flschaves/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms-rdstation/includes/class-gf-integration.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms-rdstation/includes/class-rd-station.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms-rdstation/gravityforms-rdstation.php",
+		"/Volumes/NO NAME/gravityforms-rdstation/gravityforms-rdstation.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms-rdstation/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms/includes/addon/class-gf-addon.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/gravityforms-rdstation/admin/class-rdstation-addon.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-config.php",
+		"/Users/flschaves/Downloads/acraft/plugins/woocommerce/includes/wc-template-functions.php",
+		"/Users/flschaves/Downloads/acraft/theme/salient/functions.php",
+		"/private/var/folders/hs/kmmwtqcs14s25ds_097rwqz00000gn/T/fz3temp-1/woocommerce.php",
+		"/private/var/folders/hs/kmmwtqcs14s25ds_097rwqz00000gn/T/fz3temp-1/functions.php",
+		"/Users/flschaves/Documents/projects/flschaves.com/index.html",
+		"/Users/flschaves/Documents/projects/flschaves.com/scripts.js",
+		"/Applications/MAMP/htdocs/plugin_password_generator/wp-includes/ID3/module.tag.id3v1.php",
+		"/Applications/MAMP/htdocs/plugin_password_generator/wp-content/plugins/password-generator/admin/index.php",
+		"/Users/flschaves/Documents/projects/pixelart.js/js/functions.js",
+		"/Users/flschaves/Documents/projects/pixelart.js/js/pixelart.jquery.js",
+		"/Users/flschaves/Documents/projects/stylus_test/stylus/style.styl",
+		"/Users/flschaves/Documents/projects/stylus_test/stylus/stylus2.styl",
+		"/Users/flschaves/Documents/projects/stylus_test/gulpfile.js",
+		"/Users/flschaves/Documents/projects/pelos/stylus/main.styl",
+		"/Users/flschaves/Documents/projects/pelos/gulpfile.js",
+		"/Users/flschaves/Documents/projects/teste/package.json",
+		"/Users/flschaves/Documents/projects/teste/gulpfile.js",
+		"/Users/flschaves/Documents/projects/teste/stylus/main.styl",
+		"/Users/flschaves/Documents/projects/pelos/package.json",
+		"/Users/flschaves/Documents/projects/teste/css/main.css",
+		"/Users/flschaves/Documents/projects/stylus_test/css/style.css",
+		"/Users/flschaves/Documents/projects/dabrutzubaga/package.json",
+		"/Users/flschaves/Documents/projects/stylus_test/package.json",
+		"/Users/flschaves/Desktop/tim.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"plugins/gravityforms-rdstation",
+			"/Users/flschaves/Downloads/acraft"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GF_RDStation",
+			"private",
+			"_saved_settings",
+			"GFRDStationAddOn",
+			"GF_Alface",
+			"includes",
+			"password_here",
+			"username_here",
+			"loop_shop_per_page",
+			"12",
+			"posts_per_page",
+			"12",
+			"header_helpers",
+			"jquery",
+			"audio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tabs_extra_last_activated": 1448811286.64,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tabs_extra_last_activated": 1448812971.25,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tabs_extra_last_activated": 1448811534.61,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rd-station-addon",
+				"wp-content/plugins/gravityforms-rdstation/admin/class-rdstation-addon.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
